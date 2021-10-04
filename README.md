@@ -1,4 +1,4 @@
-<h2>Hey there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"/>, &nbsp; I'm Aman!</h2><hr>
+<h2>Hey there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"/>, &nbsp; I'm Aman!</h2>
 
 A Full Stack Developer currently working at<img height="16" width="16" src='http://www.google.com/s2/favicons?domain=www.antstack.io'/>[Antstack Technologies](https://antstack.io). I am into the Javascript ecosystem and have been developing scalable and user-focussed products.  <br><br>
 
