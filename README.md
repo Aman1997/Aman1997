@@ -46,5 +46,4 @@ A Full Stack Developer currently working at<img height="16" width="16" src='http
 
 ## 📈 Github Stats 
 
-[![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aman1997&count_private=true)
-)](https://github.com/aman1997/github-readme-stats)
+[![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=aman1997&count_private=true)
