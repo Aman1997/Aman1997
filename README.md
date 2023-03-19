@@ -1,6 +1,6 @@
 <h2>Hey there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"/>, &nbsp; I'm Aman!</h2>
 
-A Senior Product Engineer currently working at <img height="16" width="16" src='http://www.google.com/s2/favicons?domain=www.cloudfiles.io'/> [Cloudfiles](https://cloudfiles.io). I am into the Javascript ecosystem and have been developing scalable and user-focussed products.  <br><br>
+A SDE 2 currently working at <img height="16" width="16" src='http://www.google.com/s2/favicons?domain=www.niro.money'/> [Niro](https://niro.money/). I am into the Javascript ecosystem and have been developing scalable and user-focussed products.  <br><br>
 
 <h3>👨‍💻 Currently building products with</h3>
 <p>
